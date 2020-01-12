@@ -1,3 +1,4 @@
+# NOTE: There is an issue with the Docker image right now.  Please do not use these executables until further notice.
 # SimulatorExecutables
 ECE 270 executables to run the simulator locally
 
